@@ -73,6 +73,14 @@
 			<version>2.14.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-jaas -->
+		<dependency>
+			<groupId>org.apache.activemq</groupId>
+			<artifactId>activemq-jaas</artifactId>
+			<version>5.16.1</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
